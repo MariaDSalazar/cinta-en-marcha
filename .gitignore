@@ -1,0 +1,9 @@
+Texto-Canvas-Juego.txt
+Revision-Docente.txt
+QR-Juego-Cinta-en-Marcha.png
+*.log
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
